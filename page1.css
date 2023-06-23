@@ -1,0 +1,41 @@
+back{
+    background-image: url(background2.jpg);
+    background-size: cover;
+}
+twitterlogo{
+
+    size: 30px;
+}
+body{
+    color: black;
+    background-image: url(back.jpg);
+    background-size: cover;
+}
+URL{
+    color: blue;
+}
+rim{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+h1{
+    size: 60px;
+    color: gold;
+    background-color: gray;
+}
+gg{
+    color: royalblue;
+}
+box1{
+     background-image: url(lightgrayback.png);
+     color: red;
+    text-size-adjust: 20px;     
+
+}
+box2{
+    background-image: url(lightgrayback.png);
+    position: absolute;
+    top: 180px;
+    left: 10px;
+}
