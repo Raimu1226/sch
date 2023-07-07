@@ -1,3 +1,4 @@
+
 body{
     background-image: url(ira/background137.jpg);
     background-size: cover;
@@ -58,7 +59,7 @@ bla2{margin-right: 96px;}
 bla3{margin-right: 85px;}
 bla4{margin-right:36px;}
 xox{
-  font-size: 14px;
+  font-size: 1.2rem;
   /*文字各場合はこれを入れる*/
   }
 
