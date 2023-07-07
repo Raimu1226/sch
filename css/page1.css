@@ -26,7 +26,7 @@ h1{
     background-color: gray;
 }
 gg{
-    color: royalblue;
+    color: black;
 }
 box1{
      background-image: url(ira/lightgrayback.png);
@@ -39,4 +39,4 @@ box2{
     position: absolute;
     top: 180px;
     left: 10px;
-
+}
