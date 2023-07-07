@@ -58,5 +58,9 @@ a.btn-border {
     height: 100%;
     content: '';
   }
+  xox{
+    font-size: 1.4rem; 
+    /*文字各場合はこれを入れる*/
+    }
   /*参考：https://jajaaan.co.jp/css/button/ */
   
