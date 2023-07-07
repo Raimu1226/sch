@@ -2,10 +2,7 @@ body{
     background-image: url(ira/background137.jpg);
     background-size: cover;
 
-mozi{
-font-size: 14px;
-/*文字各場合はこれを入れる*/
-}
+  
   }
   xux{
 
@@ -60,4 +57,8 @@ bla1{margin-right: 128px;}
 bla2{margin-right: 96px;}
 bla3{margin-right: 85px;}
 bla4{margin-right:36px;}
+xox{
+  font-size: 14px;
+  /*文字各場合はこれを入れる*/
+  }
 
