@@ -1,7 +1,11 @@
 body{
     background-image: url(ira/background137.jpg);
     background-size: cover;
-    font-size: medium;
+
+mozi{
+font-size: medium;
+/*文字各場合はこれを入れる*/
+}
   }
   xux{
 
